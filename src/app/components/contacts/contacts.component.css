@@ -1,0 +1,22 @@
+table {
+  margin-left: 8em;
+  margin-top: 50px;
+}
+
+th {
+  background-color: seashell;
+  font-size: 10px;
+  font-family: "Courier New", Courier, monospace;
+  hyphens: auto;
+  overflow-wrap: break-word;
+  margin: auto;
+  max-width: 120px;
+}
+.btn {
+  display: block;
+  width: 35px;
+  font-size: 8px;
+}
+div {
+  display: flex;
+}

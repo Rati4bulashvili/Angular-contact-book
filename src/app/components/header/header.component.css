@@ -1,0 +1,10 @@
+.center {
+  text-align: center;
+  border: 5px solid black;
+  height: 50px;
+  padding-top: 20px;
+  width: 40em;
+  margin-left: 13em;
+  background-color: rgba(95, 212, 255, 0.653);
+  font-weight: bolder;
+}

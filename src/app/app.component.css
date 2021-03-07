@@ -1,0 +1,7 @@
+app-contacts {
+  display: flex;
+  width: 753px;
+  border: double;
+  margin-left: 15.2rem;
+  background-color: rgba(95, 212, 255, 0.653);
+}

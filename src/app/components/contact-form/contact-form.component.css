@@ -1,0 +1,25 @@
+.ng-invalid.ng-touched {
+  border-color: red;
+}
+.invalid-req {
+  color: red;
+}
+
+.form-group {
+  display: grid;
+  align-items: center;
+  margin-left: 2em;
+  margin-top: 50px;
+  margin-bottom: 3em;
+  width: 50px;
+}
+
+ul {
+  text-align: center;
+}
+
+.name {
+  text-decoration: underline;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
+}
